@@ -1,5 +1,5 @@
 # DEMO
 Some description!
 
-# Phrase 
-another description thats it
+# Phrase
+another description thats it.
